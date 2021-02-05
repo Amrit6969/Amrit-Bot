@@ -1,4 +1,4 @@
-# Amarit-Bot
+# Amrit-Bot
 
 ## What can it do?
 
