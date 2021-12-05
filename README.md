@@ -11,6 +11,13 @@ Commands in-game :
  - $tps - Gives server TPS.
  - $uuid - Gives yours or someone else's UUID.
  - $AmritIsMyDaddy - TPAs to you with a kit.
+ - $kit - TPAs to you with a kit.
+ - $dice - Rolls a dice and posts dice in chat
+ - $discord - Posts the discord server
+ - $dupe - Posts a video with a working dupe
+ - $namemc - Posts your namemc link
+ - $namemc <username> - Posts <username>'s namemc link
  - *more soon*
 ## Changelog
  - *04/02/2021* Added a 10-minute cooldown to $AmritIsMyDaddy so people can’t spam and abuse
+ - *05/12/2021* Updated github
