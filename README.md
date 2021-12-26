@@ -17,7 +17,6 @@ Commands in-game :
  - $dupe - Posts a video with a working dupe
  - $namemc - Posts your namemc link
  - $namemc <username> - Posts <username>'s namemc link
- - $dice - Posts 2 random dice
 - *more soon*
 ## Changelog
  - *04/02/2021* Added a 10-minute cooldown to $AmritIsMyDaddy so people can’t spam and abuse
