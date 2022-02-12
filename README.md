@@ -10,7 +10,6 @@ Commands in-game :
  - $russianroulette - Play Russian roulette.
  - $tps - Gives server TPS.
  - $uuid - Gives yours or someone else's UUID.
- - $AmritIsMyDaddy - TPAs to you with a kit.
  - $kit - TPAs to you with a kit.
  - $dice - Rolls a dice and posts dice in chat
  - $discord - Posts the discord server
