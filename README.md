@@ -17,9 +17,6 @@ Commands in-game :
  - $bp - Posts the person with the best (lowest) ping
  - $wp - Posts the person with the worst (highest) ping
  - $quote - Gives a random quote
+ - $insult <username> - Insults <username> 
  
 - *more soon*
-## Changelog
- - *04/02/2021* Added a 10-minute cooldown to $AmritIsMyDaddy so people can’t spam and abuse
- - *05/12/2021* Updated github
- - *27/10/2022* added new commands
