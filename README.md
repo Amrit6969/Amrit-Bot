@@ -30,6 +30,7 @@ Commands in-game :
  - $queue - Prints the ammount of players waiting in the 2b queue.
  - $time - Prints the time in ticks.
  - $sleep - Prints if you can sleep or not.
+ - $joke - Prints a two-part joke. 
 
  
 - *more soon*
