@@ -31,6 +31,9 @@ Commands in-game :
  - $time - Prints the time in ticks.
  - $sleep - Prints if you can sleep or not.
  - $joke - Prints a two-part joke. 
+ - $countdown - Counts down from 3. 
+ - $cnt - Counts down from 3. 
+ 
 
  
 - *more soon*
