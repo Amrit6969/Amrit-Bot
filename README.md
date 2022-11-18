@@ -6,7 +6,6 @@ Commands in-game :
  - $8ball - A virtual 8ball you can use.
  - $coinflip - Flip a coin!
  - ~~$nfa - Gives you a free Minecraft account!~~ (Disabled temporarily)
- - $ping - Pong! Gives yours or someone else's ping in ms format.
  - $russianroulette - Play Russian roulette.
  - $tps - Gives server TPS.
  - $uuid - Gives yours or someone else's UUID.
@@ -19,11 +18,10 @@ Commands in-game :
  - $discord - Posts the discord server.
  - $donate - Posts a link to my PayPal XD.
  - $dupe - Posts a video with a working dupe.
- - $ping - Prints your ping.
  - $ping <username> - Prints ping of <username>
  - $bp - Posts the person with the best (lowest) ping.
  - $wp - Posts the person with the worst (highest) ping.
- - $quote - Gives a random quote.
+ - $rquote - Gives a random quote.
  - $insult <username> - Insults <username> 
  - $quran - Quotes a random Ayah from the Quran.
  - $votd - Prints the Verse of The Day from the Bible.
@@ -33,7 +31,11 @@ Commands in-game :
  - $joke - Prints a two-part joke. 
  - $countdown - Counts down from 3. 
  - $cnt - Counts down from 3. 
+ - $quote <username> - Prints a random message <username> said in the past.
+ - $joindate <username> - Prints how long ago someone joined the server.
+ - $playtime <username> - Prints how long someone has played on the server for.
+ - $lastseen <username> - Prints the last time <username> was online
  
+<username> is optional. If you type a command without <username> it will assume <username> is your ign.
 
- 
 - *more soon*
