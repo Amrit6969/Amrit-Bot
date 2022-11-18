@@ -36,6 +36,6 @@ Commands in-game :
  - $playtime <username> - Prints how long someone has played on the server for.
  - $lastseen <username> - Prints the last time <username> was online
  
-<username> is optional. If you type a command without <username> it will assume <username> is your ign.
+Using <username> is optional. If you type a command without <username> it will assume <username> is your ign.
 
 - *more soon*
